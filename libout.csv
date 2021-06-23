@@ -1,0 +1,82 @@
+library_Name_AODocs,storage_Admin_AODocs,root_Folder_Id_GSD,library_Id_AODocs,folder_Type,attachment_Mode,permission_Mode,notify_UsersAboutPushToMyDrive,only_AdminsCanManageFolders,only_AdminsCanEditRootFolder,days_BeforeDelete,time_Zone
+"1. Asset Mgt Original (Ex TRIM, created pre 09/16)",aodocs_asset_management@snowyhydro.com.au,0B3Cp6GQ03bFla25ObXUzM05wRmM,Pi6VQAw4szhUcyHGpy,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+2. Asset Mgt Other Classes (Created from 09/16),aodocs_asset_management_i@snowyhydro.com.au,0BxeAl3UTUecJb2F2YjZ5R29rTm8,Pu5DR2x6C1SasBULr8,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,Australia/Sydney
+3. Asset Mgt Technical (Created from 09/16),aodocs_asset_management_iii@snowyhydro.com.au,0BwH18xoy73I5QktveGRJWUluZ2c,PtwsrnX2Sis0TpQPnB,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,999,UTC
+AMT SCADA and GMS,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6bHBKUGl1cGtRNVk,PypXsbk09r3Dd6ZGks,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,True,False,500,UTC
+Asset Management Archive,aodocs_asset_management_archive@snowyhydro.com.au,0B90-x8sfgUf-YVpGYWNkeFVqU0k,PfUKulH1iHAPb7CHb9,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,Australia/Sydney
+Asset Mgt Historic Visuals 1949 - 1974,aodocs_asset_management_archive@snowyhydro.com.au,1CKxPT_17DbOsSAAkjqlG5BvPf0jkbDer,QjVKIDJ9QMB2NchFx7,DML,COMPOSITE,CLUB_MED,True,False,False,500,Australia/Sydney
+Board Administration,aodocs_board_administration@snowyhydro.com.au,0B2Xmh06TvCQrdFFUdU50eWJfNFE,Pez7tlv0WUIwAJUUFj,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+COR Sydney Reception,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6NDUzVjY2bHpXWVE,PtX0XXHySg5sflAdvp,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,True,False,180,UTC
+Education Resources,aodocs_asset_management_ii@snowyhydro.com.au,0B_7E6QIm19YIbnBfU280cjdCcnM,QQSQSjOxQs9pMHDmdO,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+Emergency and Crisis Management,aodocs_asset_management_ii@snowyhydro.com.au,1k9ydrdQK3zzMS5L9wnbWnTEnO3ezcIXT,S3Lb5MpuptWYN5BtGj,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,30,UTC
+Emergency and Crisis management team,aodocs_asset_management_ii@snowyhydro.com.au,1PmzrKKCD3QmT9rGWl0Sep8X4gzmkT9mc,S3TMBubwPI8gUz4QO9,TF,DRIVE_CONTROLLED,CLUB_MED,False,False,False,36500,UTC
+Environmental Management,aodocs_environmental_management@snowyhydro.com.au,0B_zRNFckmd9uT2JZbDZieUpjcWM,Pb8Di2MtQKmjybnXHo,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+FIN Accounting,aodocs_asset_management_ii@snowyhydro.com.au,149hTM_H7TlqYR6fnNxeFQ_byQgPV2G5d,R2q8CFxA7dQS6wgIzf,SF,GOOGLE_DRIVE,CLUB_MED,False,False,False,500,UTC
+FIN Payroll,aodocs_asset_management_ii@snowyhydro.com.au,1p9Be8QCByfGkxpN8cAhZLcTvw2NCcv4h,RJu4ZDa6G37dhzs86a,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,30,UTC
+FIN Taxation,aodocs_asset_management_ii@snowyhydro.com.au,1iJfpYHl7mjw3HDbyV_b7vICWySHnnvw3,R2GMmUDugaSErdeDGX,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,30,UTC
+FIN Treasury,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6N3pfMUctOXVRNjg,PtWwdCY4KYdHABasL2,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,True,False,500,UTC
+Financial Management,aodocs_financial_management@snowyhydro.com.au,0B4avrEFuoC3kSHlVMDNkaVNTR0U,PaD2ruMtQaqYJnS57c,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+Group Assurance,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6ZElBd2dMN0dyNXM,Q7rlpB9yOgO3zulAv1,SF,GOOGLE_DRIVE,CLUB_MED,False,True,True,1,UTC
+Health & Safety,aodocs_health_and_safety@snowyhydro.com.au,0BziJcCs3dG1Sekd3Y1JCNS0xdWc,PdbEDvP3SQQXXIg60x,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+ICS Applications,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6MVExcFdhTlh2LWc,PypZFDg9ktP5gnVanm,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,False,False,500,UTC
+ICS Business Continuity & Security,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6dGxGd3JyVzkzNWM,PypYf1GvTdOjrIixDL,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,False,False,500,UTC
+ICS Foundations & Frontiers Phase Three,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6NlBfNmhoRTFCMzQ,Q2gsB3y2KNa3kpYH52,SF,GOOGLE_DRIVE,CLUB_MED,True,True,False,500,UTC
+ICS General,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6ZWNMZWl0b3k2OEE,Pssi5DIxRE126u5wZ7,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+ICS Info Resources & End User Exp,shl.aodocs@snowyhydro.com.au,0B1Ewhx-7Be3_eHFoSFlRUzNrQnc,Pq8uc3d2smf2h6ZZ0T,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,False,False,500,Australia/Sydney
+ICS Infrastructure,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6REtqcnNfYW1TVzA,PxVmwVMxT36L9uTTHF,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,False,False,500,Australia/Sydney
+ICS Projects,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6bE0tRVFmMmwtMDg,PssfPLo08RrPqMWVWF,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+ICS Services,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6dXRZQWNkR0d2MnM,PypaxwF0hofIhj2rg7,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,False,False,500,UTC
+"Info, Comms & Technology",aodocs_information_communication_and_technology@snowyhydro.com.au,0B6B-Te3LVfOUSm9DTTZuWkNJZEU,PaqDDTHsw8hSD9uo8n,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+Legal Services,aodocs_legal_services@snowyhydro.com.au,0B31PrSbt31CJNWxiWWUzSUtCTkU,Pf5TDOFw6JYT8GlLfD,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+OPS Asset Mgmt & Engineering,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6MGpnTTR2TE9rbFE,Q26iPS63WEcZNta3uX,SF,GOOGLE_DRIVE,CLUB_MED,True,True,False,500,UTC
+OPS Cloudseeding,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6TnBUb2VidzNhMFE,QBMdxjk1UDWB1hjsRM,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+OPS Environmental Services,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6d3ItN2RORVVCcEU,QAg5lkQteeEONxqg6R,SF,GOOGLE_DRIVE,CLUB_MED,False,False,False,500,UTC
+OPS Generation Operations,aodocs_asset_management_ii@snowyhydro.com.au,0B_7E6QIm19YIVTNmNjdTV25PRkU,QFIt8Fs6nrRI44ZURM,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+OPS Knowledge Quality Performance,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6VG83c3dzWW0wVkk,PvFPMIo5mQH4xBrjRF,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+OPS Operations - General,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6QktMb1VlV3F2LUE,Q0nXejp2XySWvv4LIQ,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,True,True,False,500,UTC
+OPS Production Forums,aodocs_asset_management_ii@snowyhydro.com.au,0B_7E6QIm19YIVVdhNzFuWXNObVE,QMyOQyb0GDu52TBVll,SF,GOOGLE_DRIVE,CLUB_MED,False,False,False,500,UTC
+OPS Production Gas & Diesel,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6QkcwUTY2NExfMG8,Psms5UF5mJx8KcsM3j,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,True,False,500,UTC
+OPS Production Improvement,aodocs_asset_management_ii@snowyhydro.com.au,1yuO-lfQgYWWpBynwU5zGzdvPRSm4MsWi,RR4drBl0KbnHK1ToPX,SF,GOOGLE_DRIVE,CLUB_MED,True,True,False,500,UTC
+OPS Production Kosciuszko,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6cWJVdTBfQ3VKTm8,PvclM8Y6HfOjLV5kdf,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,True,True,False,500,UTC
+OPS Production Lower Tumut,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6ZlhURkFFeGpHWU0,PuIP6kT3BQyhNDo758,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,True,True,False,500,UTC
+OPS Production Murray,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6dnFoUWpOekNqaE0,PwwYAYd5ZehL5IzmI1,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,False,False,500,UTC
+OPS Production Upper Tumut,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6S2Q0TDlESTM5d2M,PypVrfstnRkPdNaAxH,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,False,False,500,UTC
+OPS Project Management,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6cVBpNW4yQ21tRFU,PzCOXGi1h5vvIECrwv,SF,GOOGLE_DRIVE,CLUB_MED,False,True,False,500,UTC
+OPS Protection & HV Testing,aodocs_asset_management_ii@snowyhydro.com.au,0B_7E6QIm19YIN3pNaXR4dlpfcVU,QFKDecz0dKmmd46IQ3,SF,GOOGLE_DRIVE,CLUB_MED,False,False,False,500,UTC
+OPS Regional Support,aodocs_asset_management_ii@snowyhydro.com.au,1Y9rV2fvIK8VfaRdFQbtK52MOFHkrLWT_,QmPHcdK1iP3uiPFLHB,SF,GOOGLE_DRIVE,CLUB_MED,False,False,False,500,UTC
+OPS Regional Support - Commissioning & Test Team,aodocs_asset_management_ii@snowyhydro.com.au,1F_hJWePsBiF_FOawBxNdA7nnYoHVL3Dr,R1DnTcr4NFkz6y2lGV,SF,GOOGLE_DRIVE,CLUB_MED,False,True,False,500,UTC
+OPS Regional Support - Electrical Team,aodocs_asset_management_ii@snowyhydro.com.au,1zzt7l-DWSCJyIWeRwHynssGydshNaXi1,RI7Xc4LzaZuehuCBe6,SF,GOOGLE_DRIVE,CLUB_MED,True,True,False,500,UTC
+OPS Weather & Water,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6dUNBdHJhMkpObDQ,QBMHVzL7Q6Rq3IxxUL,SF,GOOGLE_DRIVE,CLUB_MED,False,True,False,500,UTC
+PLC Corporate Law,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6MHVTSDhTYWJlbTQ,QC1pubI8pcCdkZ7WLB,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+PLC Management Support,aodocs_asset_management_ii@snowyhydro.com.au,19uHxKHnvvhQJpBmjEOkpnAUapmFumR2m,R3aDW4z5tJebHmxREq,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,30,UTC
+PLC Procurement,aodocs_asset_management_ii@snowyhydro.com.au,0B_7E6QIm19YISDVjOTZoakw1ejA,QVpKMzk0xQodmyFSs4,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+POC Quality test library,shl.aodocs@snowyhydro.com.au,1VwXu5Ra0oeeHxd8pVuzuTQOE5tbXPqfx,Rwkc3xL862d4yqxHEu,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+POR Portfolio Risk and Product Development,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6T0NJSWx0TW5Sdk0,Q0o3P7S1BT8DnNBb1a,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+Paper Files & Library,aodocs_library_and_archives@snowyhydro.com.au,0B7rN1L_yycvrMVp4ZzBHbFFiZUU,PbmItbJ3BRBVjn3Eo3,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+Personnel,aodocs_people_management@snowyhydro.com.au,0B-gXudqY7ivUM01ucFNNTnU2WUU,PeMc8nr2qEbYf8W9jY,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+Portfolio Management,aodocs_portfolio_management@snowyhydro.com.au,0BzHwIOnIyrDhWmY5dno4OWxkTlk,PcA8pmoyjEPLh347gO,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+Property Management,aodocs_property_management@snowyhydro.com.au,0B4ikswWmDdKJc3lCZC1rcXUtQkk,PbY6YaAwNwOcmHFw9R,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+Public Relations,aodocs_public_relations@snowyhydro.com.au,0B7dPvADDxnTdLW5zNWJtb2dVb28,PbWoS7l0GzkU3G9tXY,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+Publicly available documents,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6NzhKb0thSE0xTGs,Q1olWDX8lUMYXURjLP,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+Quality,aodocs_asset_management_ii@snowyhydro.com.au,1NQA_8DNtBwch5yUAVjah2p11Hd1tHEac,RLzz0xV80jtJX6epDm,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+SHL Cooma Social Club,aodocs_asset_management_ii@snowyhydro.com.au,1s4BCVDb8TJ162JrHXqWOwKyjM4lrXUTg,QuL3bGQs4bUfnmxXFs,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,30,Australia/Sydney
+SPCS Administration Trainees,aodocs_snowy_hydro_001@snowyhydro.com.au,0B_7E6QIm19YIaHUtRDJPbnU1Tmc,QDQy6nS3QBqJ2kIQPf,SF,GOOGLE_DRIVE,CLUB_MED,True,True,False,500,UTC
+SPCS Cabramurra Township Maintenance,aodocs_asset_management_ii@snowyhydro.com.au,1TbHKvTYW1X9xSpSzX-lbNoYdIPmRpziR,RASndje1LAadu6DkDL,SF,GOOGLE_DRIVE,CLUB_MED,True,True,False,500,UTC
+SPCS Capability & Development,aodocs_asset_management_ii@snowyhydro.com.au,1URdMaZsqn5jwbBUMGHztHW2VJmHTbOnW,RHH63eW4EdIZ8nCPp8,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+SPCS Community Relations,aodocs_asset_management_ii@snowyhydro.com.au,0B_7E6QIm19YIZlNvM1RielRfSnM,QVGcl71tLFF1ss5nrL,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+SPCS Facilities,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6anB1aHAwZzg2SDg,Q0b8Y9w1L1Tf5ePluR,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,True,True,False,500,UTC
+SPCS Health & Safety,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6Qll3SU9aTjIyOHM,Q9qP3B01DwULPdygVA,SF,GOOGLE_DRIVE,CLUB_MED,False,True,False,500,UTC
+SPCS Logistics & Fleet,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6dnEwd0tsV0g2Tmc,Q0b7V9huNcbduTqQj9,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+SPCS People & Culture,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6VWVsdXFGeTduZWs,PyGUNNa8YP0dMKoifx,SF,GOOGLE_DRIVE,LOW_SECURITY_PRISON,False,False,False,500,UTC
+Shareholder Interactions,aodocs_board_administration@snowyhydro.com.au,1IYqnXLX4G8yEVeCOnBxd-pHgbCISKcLl,RT9enYCx30ePih4ea8,DML,COMPOSITE,CLUB_MED,True,False,False,30,UTC
+Snowy  2.0,shl.aodocs@snowyhydro.com.au,1jUy3mc9Vo8bY0VARpIDeqTY712NL8KCW,RksRpbk3XmYzpU82Qq,SF,GOOGLE_DRIVE,CLUB_MED,True,False,False,500,UTC
+Strategic Management,aodocs_strategic_management@snowyhydro.com.au,0Bwr2z3f_X76WaERzeW52azdCRFE,Pf0VRCosL45n6jwbrf,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+Trading,aodocs_trading@snowyhydro.com.au,0ByvIVPtCnshSNUpScHp6WEFtcVk,PeNqut3t47RIIT2J5h,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+Training & Development Portal,aodocs_asset_management_ii@snowyhydro.com.au,0B7xksw8Xpjj9QlBaUGc2UU1WR2c,QKV4I1rvqI3nUBC7Wo,SF,GOOGLE_DRIVE,CLUB_MED,True,True,False,500,UTC
+Training Coordinators,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6RlFjUUhTZG9CYVU,Q40POE3vYRrZFNgFTx,SF,GOOGLE_DRIVE,CLUB_MED,True,True,False,500,UTC
+Water Management,aodocs_water_management@snowyhydro.com.au,0B5qOZQC1UluAWnBYN0xfQVF2bGs,Papvya32AlUpED0Ilw,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+ZZ Asset Mgt Final Testing,shl.aodocs@snowyhydro.com.au,0B1Ewhx-7Be3_bWN3OWxwWUJMTVk,PjipMAE7R7KxlcMM4B,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+ZZ Document Management Test Only,shl.aodocs@snowyhydro.com.au,0B1Ewhx-7Be3_Ym96eE5hZzVSLVU,PWRZGjm1vDO8YOic8s,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,Australia/Sydney
+ZZ Paper Files & Library Test,shl.aodocs@snowyhydro.com.au,0B1Ewhx-7Be3_Xy02SFNCY1BmLTA,OuiUr3j2KiX1bGdeql,DML,COMPOSITE,LOW_SECURITY_PRISON,True,False,False,500,UTC
+ZZ Secured Folder Testing,aodocs_snowy_hydro_001@snowyhydro.com.au,0Bw2v4RvL8EP6N0VHS1JfajU2MGc,Q1R5axc6QDiPHUe9Dy,SF,GOOGLE_DRIVE,CLUB_MED,False,False,False,500,UTC
+zz Info res test team folder library,aodocs_asset_management_ii@snowyhydro.com.au,15Z94yHiquq1gQjesl5scsyWRRyMLZ3_k,RxzgtLb9sMDVsKKJg9,TF,DRIVE_CONTROLLED,CLUB_MED,False,False,False,30,UTC

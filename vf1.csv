@@ -1,0 +1,36 @@
+class_Name_Filter,view_Name_Filter,join_Type,column_Name,operator_type,filter_Value
+"Contract, Agreement or Prequalification",Assignment Registers,OR,Title,EQUAL,register
+Market Regulation & Compliance,Connection Agreements,AND,Document Type,EQUAL,Connection Agreement
+Strategic Asset Specification,Core Work Management Int (Intranet),AND,Document Type,EQUAL,CWM Interim Changes
+Business Process,Current Policies & Procedures,AND,Intranet?,EQUAL,true
+Strategic Asset Specification,Job Cards Filter,OR,Creation date,EQUAL,2017-08-09
+Strategic Asset Specification,Job Cards Filter,OR,Last update author,EQUAL,niam.foxcroft@snowyhydro.com.au
+Strategic Asset Specification,Maintenance Instructions,AND,Document Type,EQUAL,Maintenance Instruction
+Strategic Asset Specification,Maintenance Instructions (espot) 2019,AND,Document Type,EQUAL,Maintenance Instruction
+Operating Activity,Murray Operating Instructions - Current,AND,Responsibility,EQUAL,AO Operations M
+Operating Activity,Murray Operating Instructions - Current,AND,Status,EQUAL,Current
+Operating Activity,Murray Operating Instructions - Current,AND,Document Type,EQUAL,Operating Instruction
+Operating Activity,Murray Region Local Operating Instructions,AND,Responsibility,EQUAL,AO Operations M
+Operating Activity,Murray Region Local Operating Instructions,AND,Document Type,EQUAL,Operating Instruction
+Operating Activity,Murray Region Local Operating Instructions,AND,Status,EQUAL,Current
+Business Process,Policies & Procedures,OR,Document Category - Bus Process,EQUAL,Policy
+Business Process,Policies & Procedures,OR,Document Category - Bus Process,EQUAL,Corporate Form
+Business Process,Policies & Procedures,OR,Document Category - Bus Process,EQUAL,Quality Procedure
+Business Process,Policies & Procedures,OR,Document Category - Bus Process,EQUAL,Quality Manual
+Business Process,Policies & Procedures,OR,Document Category - Bus Process,EQUAL,Guideline
+Business Process,Recently Updated Business Process,AND,Document Category - Bus Process,EQUAL,Control Document
+Business Process,Recently Updated Business Process,AND,Date Approved,GREATER_THAN_OR_EQUAL_TO,2017-01-01
+Operating Activity,SMCC Latest Updated OIs,AND,Responsibility,EQUAL,AO Generation Operations (SMCC)
+Operating Activity,SMCC Latest Updated OIs,AND,Document Type,EQUAL,Operating Instruction
+Operating Activity,SMCC Latest Updated OIs,AND,Status,NOT_EQUAL,Archived
+Operating Activity,SMCC OIs Awaiting Approval,OR,State,EQUAL,SMCC OI Pending Approval
+Operating Activity,SMCC OIs Checked Out,OR,State,EQUAL,Draft SMCC OI (ARCHIVED)
+Operating Activity,SMCC OIs Checked Out,OR,State,EQUAL,Draft SMCC OI
+Operating Activity,SMCC Operating Instructions,AND,Responsibility,EQUAL,AO Generation Operations (SMCC)
+Operating Activity,SMCC Operating Instructions,AND,Document Type,EQUAL,Operating Instruction
+Operating Activity,SMCC Operating Instructions (Intranet),AND,Responsibility,EQUAL,AO Generation Operations (SMCC)
+Operating Activity,SMCC Operating Instructions (Intranet),AND,Document Type,EQUAL,Operating Instruction
+Operating Activity,SMCC Operating Instructions (Intranet),AND,Status,EQUAL,Current
+Strategic Asset Specification,Strategic Asset Plans,OR,Document Type,IN,Facility Plan
+Operating Activity,Upper Tumut IPRP,AND,Document Type,EQUAL,Isolation Restoration Program
+Operating Activity,Upper Tumut IPRP,AND,Region,EQUAL,Upper Tumut
